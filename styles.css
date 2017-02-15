@@ -1,0 +1,170 @@
+@charset "UTF-8";
+#head {
+	height: 380px;
+	margin-top: 45px;
+	margin-right: 45px;
+	margin-left: 40px;
+	padding-top: 35px;
+	padding-right: 35px;
+	padding-bottom: 35px;
+	padding-left: 35px;
+	background-color: #4F7D69;
+	border-radius: 25px;
+	border: 40px solid #F60609;
+	background-position: 0 0;
+	width: 865px;
+	margin-bottom: 45px;
+}
+#head img {
+	height: 380px;
+	width: 865px;
+	background-image: url(IMAGES/FVT%20LOGO2.jpg);
+	background-size: 865px 380px;
+}
+body {
+	background-color: #636D4E;
+	width: 1060px;
+	margin-left: auto;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+}
+nav {
+	width: 980px;
+	height: 630px;
+	margin-left: auto;
+	margin-right: 0px;
+	background-color: #FFFFFF;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+#nav {
+	background-color: #FFFFFF;
+	height: 630px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	width: 980px;
+	margin-right: 0px;
+	margin-left: auto;
+	float: right;
+	margin-bottom: auto;
+}
+#footer {
+	height: 178px;
+	border: 20px solid #65BDDB;
+	width: 980px;
+	margin-left: auto;
+	margin-top: 50px;
+	border-radius: 20px;
+	margin-right: auto;
+	float: right;
+}
+#home {
+	width: 130px;
+	height: 142px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border: 20px double #FCD06F;
+	border-radius: 20px;
+	position: absolute;
+	margin-right: 5px;
+	top: 873px;
+	right: 90px;
+	padding-top: 6px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+}
+#questionaires    {
+	width: 880px;
+	height: 550px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	margin-left: 20px;
+	padding-top: 6px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+	border: 20px solid #65BDDB;
+	position: absolute;
+	border-radius: 20px;
+	margin-right: 10px;
+	float: left;
+}
+#egInterview {
+	width: 900px;
+	height: 540px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 15px;
+	padding-top: 6px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+	border: 20px solid #E54524;
+	position: absolute;
+	border-radius: 20px;
+	margin-right: 0px;
+	float: left;
+}
+#techniques {
+	width: 900px;
+	height: 540px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 20px solid #A3AB58;
+	border-radius: 20px;
+	position: absolute;
+	margin-right: 20px;
+	float: left;
+	margin-left: 20px;
+}
+#Tree {
+	width: 900px;
+	height: 540px;
+	position: absolute;
+	border: 20px solid #F96F05;
+	border-radius: 20px;
+	margin-left: 15px;
+	margin-top: 20px;
+	float: left;
+	padding-top: 6px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+	margin-bottom: 20px;
+}
+#section {
+	color: #F60408;
+	font-size: 72px;
+	text-align: center;
+	border: 20px solid #FCD06F;
+	width: 980px;
+	margin-left: auto;
+}
+#footer h3 {
+	text-align: center;
+}
+#footer h4 {
+	text-align: center;
+}
+#footer table {
+	margin-top: 30px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	margin-left: 30px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	border: thick solid #A3AB58;
+}
+#techniques ul li {
+	margin-right: 50px;
+	margin-left: 50px;
+}
